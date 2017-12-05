@@ -1,0 +1,1294 @@
+44719b Agate Blue
+5d8aa8 Air Force Blue
+00308f Air Force Blue (usaf
+72a0c1 Air Superiority Blue
+a32638 Alabama Crimson
+54ac68 Algae
+21c36f Algae Green
+f0f8ff Alice Blue
+e32636 Alizarin Crimson, Rose Madder
+c46210 Alloy Orange
+efdecd Almond
+070d0d Almost Black
+ebe1df Almost Mauve
+e52b50 Amaranth
+cd2682 Amaranth Cerise
+9f2b68 Amaranth Deep Purple
+ed3cca Amaranth Magenta
+f19cbb Amaranth Pink
+ab274f Amaranth Purple
+3b7a57 Amazon
+feb308 Amber
+ffbf00 Amber, Fluorescent Orange
+ff033e American Rose
+9b5fc0 Amethyst
+a397b4 Amethyst Smoke
+f9eaf3 Amour
+fdf6fa Amour Light
+a4c639 Android Green
+f2f3f4 Anti-flash White
+c88a65 Antique Brass
+665d1e Antique Bronze
+915c83 Antique Fuchsia
+faebd7 Antique White, Moccasin
+6ecb3c Apple
+8db600 Apple Green
+fbceb1 Apricot
+13eac9 Aqua
+02d8e9 Aqua Blue
+12e193 Aqua Green
+2ee8bb Aqua Marine
+7fffd4 Aquamarine
+71d9e2 Aquamarine Blue
+3c8043 Area 51
+74acdf Argentinian Azure
+4b5320 Army Green
+3b444b Arsenic
+e9d66b Arylide Yellow, Hansa Yellow
+b2beb5 Ash Grey
+77ab56 Asparagus
+fa4f7b Atomic Carmine Pink
+ff9966 Atomic Tangerine, Pink-orange
+3d0734 Aubergine
+9a3001 Auburn
+fdee00 Aureolin
+6e7f80 Aurometalsaurus
+eff7aa Australian Mint
+ff7e00 Automotive Amber
+568203 Avocado
+87a922 Avocado Green
+ff2052 Awesome
+c39953 Aztec Gold
+1d5dec Azul
+007fff Azure
+f0ffff Azure Mist/web
+a2cffe Baby Blue
+a1caf1 Baby Blue Eyes
+8cff9e Baby Green
+ffb7ce Baby Pink
+ab9004 Baby Poo
+937c00 Baby Poop
+8f9805 Baby Poop Green
+b6c406 Baby Puke Green
+ca9bf7 Baby Purple
+ad900d Baby Shit Brown
+889717 Baby Shit Green
+bada55 Badass
+a5cb0c Bahia
+21abcd Ball Blue
+ffff7e Banana
+fae7b5 Banana Mania
+fafe4b Banana Yellow
+fe46a5 Barbie Pink
+94ac02 Barf Green
+7c0a02 Barn Red
+ac1db8 Barney
+a00498 Barney Purple
+6b7c85 Battleship Grey
+7da98d Bay Leaf
+98777b Bazaar
+cfbcbe Bazaar Light
+bcd4e6 Beau Blue, Pale Aqua
+926f5b Beaver
+f5f5dc Beige
+990f4b Berry
+9c2542 Big Dip O'ruby
+b5c306 Bile
+3d2b1f Bistre
+cae00d Bitter Lemon
+fe6f5e Bittersweet
+bf4f51 Bittersweet Shimmer
+000000 Black
+3d0c02 Black Bean
+32293a Black Currant
+253529 Black Leather Jacket
+3b3c36 Black Olive
+67032d Black Rose
+b12b7f Black Rose Light
+4d0135 Blackberry
+ffebcd Blanched Almond
+afa88b Bland
+a57164 Blast Off Bronze
+318ce7 Bleu De France
+ace5ee Blizzard Blue
+faf0be Blond
+fe4b03 Blood Orange
+980002 Blood Red
+0000ff Blue
+1f75fe Blue (crayola)
+0093af Blue (munsell)
+0087bd Blue (ncs)
+0247fe Blue (ryb)
+00b6d9 Blue Atoll
+a2a2d0 Blue Bell
+2242c7 Blue Blue
+6699cc Blue Gray
+137e6d Blue Green
+607c8e Blue Grey
+485470 Blue Indigo
+5729ce Blue Purple
+126180 Blue Sapphire
+5d06e9 Blue Violet
+533cc6 Blue With A Hint Of Purple
+0d98ba Blue-green
+0f9b8e Blue/green
+758da3 Blue/grey
+5a06ef Blue/purple
+464196 Blueberry
+017a79 Bluegreen
+85a3b2 Bluegrey
+2bb179 Bluey Green
+89a0b0 Bluey Grey
+6241c7 Bluey Purple
+2976bb Bluish
+10a674 Bluish Green
+748b97 Bluish Grey
+703be7 Bluish Purple
+5539cc Blurple
+de5d83 Blush
+de98b2 Blush Light
+fe828c Blush Pink
+79443b Bole, Medium Tuscan Red
+0095b6 Bondi Blue
+e3dac9 Bone
+9bb53c Booger
+96b403 Booger Green
+7b002c Bordeaux
+63b365 Boring Green
+cc0000 Boston University Red
+044a05 Bottle Green
+873260 Boysenberry
+0070ff Brandeis Blue
+bb8983 Brandy Rose
+e1c7c3 Brandy Rose Light
+b5a642 Brass
+a03623 Brick
+c14a09 Brick Orange
+cb4154 Brick Red
+0bf9ea Bright Aqua
+0165fc Bright Blue
+e47698 Bright Blush
+fe9d04 Bright California Gold
+02a4d3 Bright Cerulean
+41fdfe Bright Cyan
+01ff07 Bright Green
+5d76cb Bright Indigo
+c760ff Bright Lavender
+26f7fd Bright Light Blue
+2dfe54 Bright Light Green
+c95efb Bright Lilac
+87fd05 Bright Lime
+65fe08 Bright Lime Green
+ff08e8 Bright Magenta
+fc51af Bright Magenta Rose
+d498cb Bright Mallow Pink
+c32148 Bright Maroon, Maroon (crayola)
+d0868e Bright Mauve Glow
+c49fba Bright Mauve Mist
+0066cc Bright Navy Blue
+9cbb04 Bright Olive
+cd81b8 Bright Opera Mauve
+ff5b00 Bright Orange
+ffccff Bright Pale Rose
+fe01b1 Bright Pink
+be03fd Bright Purple
+c7458b Bright Raspberry Rose
+ff000d Bright Red
+d02090 Bright Red-violet
+05ffa6 Bright Sea Green
+02ccfe Bright Sky Blue
+01f9c6 Bright Teal
+0ffef9 Bright Turquoise
+b80049 Bright Tyrian Purple
+ad0afd Bright Violet
+fffd01 Bright Yellow
+9dff00 Bright Yellow Green
+b87b6b Brilliant Copper
+ff64c5 Brilliant Electric Hollywood Cerise
+7fff55 Brilliant Harlequin
+f4bbff Brilliant Lavender, Electric Lavender
+eb6fcb Brilliant Red-violet
+f653a6 Brilliant Rose
+fb607f Brink Pink
+e18731 British Apricot
+05480d British Racing Green
+cd7f32 Bronze
+653700 Brown
+964b00 Brown (traditional)
+706c11 Brown Green
+8d8468 Brown Grey
+b96902 Brown Orange
+922b05 Brown Red
+b29705 Brown Yellow
+9c6d57 Brownish
+6a6e09 Brownish Green
+86775f Brownish Grey
+cb7723 Brownish Orange
+c27e79 Brownish Pink
+76424e Brownish Purple
+9e3623 Brownish Red
+c9b003 Brownish Yellow
+6f6c0a Browny Green
+ca6b02 Browny Orange
+7e4071 Bruise
+ffc1cc Bubble Gum
+ff69af Bubble Gum Pink
+ff6cb5 Bubblegum
+fe83cc Bubblegum Pink
+e7feff Bubbles
+c1a004 Buddha Gold
+f0dc82 Buff
+480607 Bulgarian Rose
+9a393d Bulgarian Rose Light
+900020 Burgundy
+deb887 Burlywood
+c04e01 Burnt Orange
+9f2305 Burnt Red
+b75203 Burnt Siena
+b04e0f Burnt Sienna
+e97451 Burnt Sienna, Light Red Ochre
+a0450e Burnt Umber
+d5ab09 Burnt Yellow
+6832e3 Burple
+ffff81 Butter
+fffd74 Butter Yellow
+fdb147 Butterscotch
+bd33a4 Byzantine
+702963 Byzantium
+d94972 Cabaret
+ef9bb9 Cabaret Light
+536872 Cadet
+5f9ea0 Cadet Blue
+91a3b0 Cadet Grey
+b04c6a Cadillac
+dc9db3 Cadillac Light
+006b3c Cadmium Green
+ff6103 Cadmium Orange
+e30022 Cadmium Red
+fff600 Cadmium Yellow
+1e4d2b Cal Poly Green
+c6930a Cal Poly Pomona Gold
+a98f64 California Gold
+a3c1ad Cambridge Blue
+c69f59 Camel
+efbbcc Cameo Pink
+7f8f4e Camo
+526525 Camo Green
+4b6113 Camouflage Green
+d591a4 Can Can
+ebcbd6 Can Can Light
+fdff63 Canary
+fffe40 Canary Yellow
+fcd917 Candlelight
+ff0800 Candy Apple Red
+ff63e9 Candy Pink
+e4717a Candy Pink, Tango Pink
+00bfff Capri, Deep Sky Blue
+592720 Caput Mortuum
+af6f09 Caramel
+c41e3a Cardinal
+00cc99 Caribbean Green
+ea88a8 Carissma
+f6c6d8 Carissma Light
+9d0216 Carmine
+eb4c42 Carmine Pink
+ff0038 Carmine Red
+dd5a91 Carmine Rose
+f03d6f Carmine Ruby
+bc2350 Carminorubaceous
+f95a61 Carnation
+ff7fa7 Carnation Pink
+b31b1b Carnelian, Cornell Red
+8ab8fe Carolina Blue
+ed9121 Carrot Orange
+062a78 Catalina Blue
+9771b5 Ce Soir
+92a1cf Ceil
+ace1af Celadon
+2f847c Celadon Green
+c1fd95 Celery
+b2ffff Celeste (colour)
+4997d0 Celestial Blue
+a5a391 Cement
+de0c62 Cerise
+da3163 Cerise Magenta
+ec3b83 Cerise Pink
+de3163 Cerise, Cherry
+007ba7 Cerulean
+056eee Cerulean Blue
+6d9bc3 Cerulean Frost
+007aa5 Cg Blue
+e03c31 Cg Red
+8b3f43 Cha Cha
+a0785a Chamoisee
+f7e7ce Champagne
+f8c3df Chantilly
+fce5f2 Chantilly Light
+343837 Charcoal
+3c4142 Charcoal Grey
+1a2118 Charleston Green
+d47494 Charm
+edbacd Charm Light
+e68fac Charm Pink, Light Thulian Pink
+c1f80a Chartreuse
+7fff00 Chartreuse Green
+dfff00 Chartreuse Yellow
+cf0234 Cherry
+ffb7c5 Cherry Blossom Pink
+f7022a Cherry Red
+651a14 Cherrywood
+742802 Chestnut
+cd5c5c Chestnut, Indian Red
+8581d9 Chetwode Blue
+e69966 Chinese Apricot
+feb4b1 Chinese Peach
+a757ab Chinese Purple
+aa381e Chinese Red
+856088 Chinese Violet
+3d1c02 Chocolate
+7b3f00 Chocolate (traditional)
+411900 Chocolate Brown
+ffa700 Chrome Yellow
+98817b Cinerous
+e34234 Cinnabar, Vermilion (cinnabar)
+ac4f06 Cinnamon
+e4d00a Citrine
+9fa91f Citron
+a1c50a Citrus
+480656 Clairvoyant
+680018 Claret
+6e1c34 Claret Violet
+fbcce7 Classic Rose
+fde9f5 Classic Rose Light
+b66a50 Clay
+b2713d Clay Brown
+247afd Clear Blue
+acc2d9 Cloudy Blue
+1e488f Cobalt
+0047ab Cobalt Blue
+875f42 Cocoa
+4b3621 Coffee
+6f4e37 Coffee, Tuscan Brown
+9f381d Cognac
+9bddff Columbia Blue
+002e63 Cool Black
+4984b8 Cool Blue
+33b864 Cool Green
+95a3a6 Cool Grey
+b66325 Copper
+7e3a15 Copper Canyon
+c08d5e Copper Canyon Light
+679267 Copper Green
+ad6f69 Copper Penny
+cb6d51 Copper Red
+996666 Copper Rose
+944747 Copper Rust
+cd9999 Copper Rust Light
+c9ae5d Copper Yellow
+ff3800 Coquelicot
+ff7f50 Coral
+f88379 Coral Pink
+ff4040 Coral Red
+893f45 Cordovan
+6a79f7 Cornflower
+5170d7 Cornflower Blue
+fff8dc Cornsilk
+763950 Cosmic
+fff8e7 Cosmic Latte
+ffbcd9 Cotton Candy
+9e003a Cranberry
+fffdd0 Cream
+ffffb6 Creme
+dc143c Crimson
+713036 Crimson Cherry
+be0032 Crimson Glory
+670f25 Crimson Lake
+ad1022 Crimson Red
+f9c8cb Crystal Rose
+fbbeda Cupid
+fde3f0 Cupid Light
+fffd78 Custard
+00ffff Cyan
+9d9fe9 Dadt Repeal Lavender
+ffff31 Daffodil
+a85387 Dahlia Mauve
+f0e130 Dandelion
+1b2431 Dark
+05696b Dark Aqua
+017371 Dark Aquamarine
+ac9362 Dark Beige
+00035b Dark Blue
+005249 Dark Blue Green
+1f3b4d Dark Blue Grey
+52503c Dark Bronze
+341c02 Dark Brown
+5d3954 Dark Byzantium
+a40000 Dark Candy Apple Red
+841b2d Dark Carmine
+08457e Dark Cerulean
+a23b3c Dark Cherry
+986960 Dark Chestnut
+71291d Dark Copper
+cf524e Dark Coral
+fff39a Dark Cream
+0a888a Dark Cyan
+536878 Dark Electric Blue
+3b7861 Dark Erin
+002d04 Dark Forest Green
+9d0759 Dark Fuchsia
+b59410 Dark Gold
+b8860b Dark Goldenrod
+388004 Dark Grass Green
+033500 Dark Green
+1f6357 Dark Green Blue
+363737 Dark Grey
+29465b Dark Grey Blue
+d90166 Dark Hot Pink
+00416a Dark Imperial Blue, Indigo (dye)
+1f0954 Dark Indigo
+1a2421 Dark Jungle Green
+9b8f55 Dark Khaki
+856798 Dark Lavender
+9c6da5 Dark Lilac
+84b701 Dark Lime
+7ebd01 Dark Lime Green
+960056 Dark Magenta
+350036 Dark Mardi Gras
+3c0008 Dark Maroon
+874c62 Dark Mauve
+003366 Dark Midnight Blue
+48c072 Dark Mint
+20c073 Dark Mint Green
+a88905 Dark Mustard
+000435 Dark Navy
+00022e Dark Navy Blue
+373e02 Dark Olive
+3c4d03 Dark Olive Green
+ff8c00 Dark Orange
+9932cc Dark Orchid
+779ecb Dark Pastel Blue
+56ae57 Dark Pastel Green
+966fd6 Dark Pastel Purple
+c23b22 Dark Pastel Red
+de7e5d Dark Peach
+665fd1 Dark Periwinkle
+cb416b Dark Pink
+3f012c Dark Plum
+4f3a3c Dark Puce
+35063e Dark Purple
+872657 Dark Raspberry
+840000 Dark Red
+b5485d Dark Rose
+02066f Dark Royal Blue
+598556 Dark Sage
+c85a53 Dark Salmon
+a88f59 Dark Sand
+082567 Dark Sapphire
+560319 Dark Scarlet
+11875d Dark Sea Green
+1fb57a Dark Seafoam
+3eaf76 Dark Seafoam Green
+3c1414 Dark Sienna
+448ee4 Dark Sky Blue
+214761 Dark Slate Blue
+2f4f4f Dark Slate Gray
+177245 Dark Spring Green
+af884a Dark Tan
+ffa812 Dark Tangerine
+7f684e Dark Taupe
+014d4e Dark Teal
+cc4e5c Dark Terra Cotta
+045c5a Dark Turquoise
+34013f Dark Violet
+8f509d Dark Vivid Violet
+d5b60a Dark Yellow
+728f02 Dark Yellow Green
+030764 Darkblue
+054907 Darkgreen
+014182 Darkish Blue
+287c37 Darkish Green
+da467d Darkish Pink
+751973 Darkish Purple
+a90308 Darkish Red
+00703c Dartmouth Green
+555555 Davy's Grey
+ad9194 Deauville Mauve
+d70a53 Debian Red
+e09214 Deep Apricot
+08787f Deep Aqua
+0066ff Deep Azure
+040273 Deep Blue
+b44668 Deep Blush
+8c7853 Deep Bronze
+410200 Deep Brown
+770f05 Deep Burgundy
+a9203e Deep Carmine
+ef3038 Deep Carmine Pink
+e53d43 Deep Carmine Pink-orange
+bc3f4a Deep Carmine Red
+bb466f Deep Carmine Rose
+be3262 Deep Carmine Ruby
+e9692c Deep Carrot Orange
+da3287 Deep Cerise
+da2647 Deep Cherry Red
+b94e48 Deep Chestnut
+704241 Deep Coffee
+ad1c42 Deep Crimson
+503e5c Deep Dark Indigo
+2c75ff Deep Electric Blue
+c154c1 Deep Fuchsia, Fuchsia (crayola)
+02590f Deep Green
+33cc00 Deep Harlequin
+8a2be2 Deep Indigo
+004b49 Deep Jungle Green
+8d5eb7 Deep Lavender
+b2a4d4 Deep Lavender Blue-gray
+f5c71a Deep Lemon
+fee600 Deep Lemon Yellow
+966ebd Deep Lilac
+a0025c Deep Magenta
+c120a2 Deep Magenta Rose
+e4beeb Deep Mauve Pink
+a65e7e Deep Medium Red-violet
+dc4d01 Deep Orange
+94417b Deep Orchid
+ffcba4 Deep Peach, Peach (crayola)
+8080ff Deep Periwinkle
+cb0162 Deep Pink
+ff5ccd Deep Pink Light
+ff1493 Deep Pink, Fluorescent Pink
+ff7077 Deep Pink-orange
+36013f Deep Purple
+ba067a Deep Raspberry
+9a0200 Deep Red
+9955bb Deep Rich Lavender
+c74767 Deep Rose
+7e5e60 Deep Rose Taupe
+843f5b Deep Ruby
+01826b Deep Sea
+015482 Deep Sea Blue
+0d75f8 Deep Sky Blue
+715f6d Deep Taupe
+00555a Deep Teal
+00ced1 Deep Turquoise
+66424d Deep Tuscan Red
+490648 Deep Violet
+57d200 Deep Yellow-green
+ba8759 Deer
+1560bd Denim
+3b5b92 Denim Blue
+ccad60 Desert
+efcdb8 Desert Sand
+a18178 Desert Taupe
+9f8303 Diarrhea
+696969 Dim Grey
+c53151 Dingy Dungeon
+8a6e45 Dirt
+836539 Dirt Brown
+3f829d Dirty Blue
+667e2c Dirty Green
+c87606 Dirty Orange
+ca7b80 Dirty Pink
+734a65 Dirty Purple
+cdc50a Dirty Yellow
+871550 Disco
+80ca2b Dizzy Lizzy
+3e82fc Dodger Blue
+d71868 Dogwood Rose
+85bb65 Dollar Bill
+41415d Dotcom
+b11355 Dove Cherry
+828344 Drab
+749551 Drab Green
+4b0101 Dried Blood
+c3fbf4 Duck Egg Blue
+00009c Duke Blue
+49759c Dull Blue
+876e4b Dull Brown
+9c87cd Dull Deep Lavender
+74a662 Dull Green
+a17e9a Dull Mauve
+d8863b Dull Orange
+e7bcb4 Dull Pallid Rose
+f5e2de Dull Pallid Rose Light
+d5869d Dull Pink
+84597e Dull Purple
+bb3f3f Dull Red
+5f9e8f Dull Teal
+eedc5b Dull Yellow
+4e5481 Dusk
+26538d Dusk Blue
+475f94 Dusky Blue
+9c7687 Dusky Orchid
+cc7a8b Dusky Pink
+895b7b Dusky Purple
+ba6873 Dusky Rose
+b2996e Dust
+e5ccc9 Dust Storm
+5a86ad Dusty Blue
+76a973 Dusty Green
+ac86a8 Dusty Lavender
+f0833a Dusty Orange
+d58a94 Dusty Pink
+825f87 Dusty Purple
+b9484e Dusty Red
+c0737a Dusty Rose
+4c9085 Dusty Teal
+c9b93b Earls Green
+a2653e Earth
+e1a95f Earth Yellow
+8cfd7e Easter Green
+c071fe Easter Purple
+555d50 Ebony
+cdb891 Ecru
+cbe3d7 Edgewater
+fffcc4 Egg Shell
+380835 Eggplant
+430541 Eggplant Purple
+ffffd4 Eggshell
+c4fff7 Eggshell Blue
+1034a6 Egyptian Blue
+0652ff Electric Blue
+ff003f Electric Crimson
+21fc0d Electric Green
+ff009f Electric Hollywood Cerise
+a8ff04 Electric Lime
+ccff00 Electric Lime, Fluorescent Yellow, French Lime
+ff0490 Electric Pink
+aa23ff Electric Purple
+3f00ff Electric Ultramarine
+ff3f00 Electric Vermilion
+ffff00 Electric Yellow, Yellow
+01a049 Emerald
+028f1e Emerald Green
+50c878 Emerald, Paris Green
+f8dd5c Energy Yellow
+b48395 English Lavender
+f5c5c2 English Rose
+00ff3f Erin
+96c8a2 Eton Blue
+05472a Evergreen
+658cbb Faded Blue
+7bb274 Faded Green
+f0944d Faded Orange
+de9dac Faded Pink
+916e99 Faded Purple
+d3494e Faded Red
+feff7f Faded Yellow
+c19a6b Fallow
+801818 Falu Red
+b53389 Fandango
+de5285 Fandango Pink
+e5aa70 Fawn
+4d5d53 Feldgrau
+63a950 Fern
+548d44 Fern Green
+ff2800 Ferrari Red
+ff5470 Fiery Rose
+fe0002 Fire Engine Red
+b22222 Firebrick
+e25822 Flame
+fc8eac Flamingo Pink
+3c73a8 Flat Blue
+699d4c Flat Green
+f7e98e Flavescent
+eedc82 Flax
+a2006d Flirt
+d500b6 Flirt Light
+fffaf0 Floral White
+08ff08 Fluorescent Green
+c7ff00 Fluorescent Lime
+ff008f Fluorescent Pink
+0aff02 Fluro Green
+90fda9 Foam Green
+ff004f Folly
+f00ba4 Foobar
+0b5509 Forest
+06470c Forest Green
+014421 Forest Green (traditional), Up Forest Green
+228b22 Forest Green (web)
+181 Forget-me-not
+154406 Forrest Green
+7e73b8 Fortune
+e67e30 French Apricot
+436bad French Blue
+c2f732 French Chartreuse
+fd3592 French Fuchsia
+9683ec French Lavender
+86608e French Lilac
+9efd38 French Lime
+d473d4 French Mauve
+fdbfb7 French Peach
+811453 French Plum
+4e1609 French Puce
+c72c48 French Raspberry
+f64a8a French Rose
+a75502 French Tan
+ac1e44 French Wine
+69d84f Fresh Green
+58bc08 Frog Green
+f57584 Froly
+dbfff8 Frosted Mint
+ed0dd9 Fuchsia
+ff77ff Fuchsia Pink
+cc397b Fuchsia Purple
+b33a7f Fuchsia Red
+c74375 Fuchsia Rose
+e48400 Fulvous
+cc6666 Fuzzy Wuzzy
+c45655 Fuzzy Wuzzy Brown
+dcdcdc Gainsboro
+755258 Galaxy
+e49b0f Gamboge
+660099 Generic Purple
+f8f8ff Ghost White
+b06500 Ginger
+cc5555 Girlsenberry
+6082b6 Glaucous
+e6e8fa Glitter
+c2e20d Go Bunny Go
+98df62 Go Go Go
+ffaa8d Goddess
+dbb40c Gold
+85754e Gold Fusion
+ffd700 Golden
+b27a01 Golden Brown
+fcc200 Golden Poppy
+f9bc08 Golden Rod
+fec615 Golden Yellow
+daa520 Goldenrod
+069b81 Gossamer
+a8e4a0 Granny Smith Apple
+6c3461 Grape
+5d1451 Grape Purple
+fd5956 Grapefruit
+5cac2d Grass
+3f9b0b Grass Green
+419c03 Grassy Green
+bebebe Gray (x11 Gray)
+465945 Gray-asparagus
+8fbc8f Grayish Sea Green
+00ff00 Green
+1cac78 Green (crayola)
+00a877 Green (munsell)
+009f6b Green (ncs)
+66b032 Green (ryb)
+5edc1f Green Apple
+06b48b Green Blue
+544e03 Green Brown
+bfbf6c Green Chartreuse Liqueur
+77926f Green Grey
+6eaea1 Green Sheen
+0cb577 Green Teal
+c9ff27 Green Yellow
+adff2f Green-yellow
+01c08d Green/blue
+b5ce08 Green/yellow
+23c48b Greenblue
+40a368 Greenish
+c9d179 Greenish Beige
+0b8b87 Greenish Blue
+696112 Greenish Brown
+2afeb7 Greenish Cyan
+96ae8d Greenish Grey
+bccb7a Greenish Tan
+32bf84 Greenish Teal
+00fbb0 Greenish Turquoise
+cdfd02 Greenish Yellow
+42b395 Greeny Blue
+696006 Greeny Brown
+7ea07a Greeny Grey
+c6f808 Greeny Yellow
+808080 Grey
+6b8ba4 Grey Blue
+7f7053 Grey Brown
+789b73 Grey Green
+c3909b Grey Pink
+826d8c Grey Purple
+5e9b8a Grey Teal
+647d8e Grey/blue
+86a17d Grey/green
+77a1b5 Greyblue
+a8a495 Greyish
+5e819d Greyish Blue
+7a6a4f Greyish Brown
+82a67d Greyish Green
+c88d94 Greyish Pink
+887191 Greyish Purple
+719f91 Greyish Teal
+5ca345 Groovy
+a0bf16 Gross Green
+a99a86 Grullo
+051657 Gulf Blue
+536267 Gunmetal
+663854 Halaya Ube
+446ccf Han Blue
+5218fa Han Purple
+3fff00 Harlequin
+c90016 Harvard Crimson
+da9100 Harvest Gold
+9d5616 Hawaiian Tan
+8e7618 Hazel
+a484ac Heather
+de4c8a Heather Violet
+d94ff5 Heliotrope
+b6316c Hibiscus
+1bfc06 Highlighter Green
+f400a1 Hollywood Cerise
+f0fff0 Honeydew
+007fbf Honolulu Blue
+49796b Hooker's Green
+9be5aa Hospital Green
+25ff29 Hot Green
+ff00cc Hot Magenta
+ff028d Hot Pink
+ffb3de Hot Pink Light
+cb00f5 Hot Purple
+0b4008 Hunter Green
+934d91 Hyacinth Violet
+d6fffa Ice
+d7fffe Ice Blue
+71a6d2 Iceberg
+8fae22 Icky Green
+fcf75e Icterine
+602ffb Imperial
+002395 Imperial Blue
+b2ec5d Inchworm
+138808 India Green
+850e04 Indian Red
+e3a857 Indian Yellow
+6f00ff Indigo
+3a18b1 Indigo Blue
+1a5798 Indigo Dye
+002fa7 International Klein Blue
+ff4f00 International Orange (aerospace)
+ba160c International Orange (engineering)
+c0362c International Orange (golden Gate Bridge)
+681c23 Internet Puce
+7d26cd Internet Purple
+6258c4 Iris
+019529 Irish Green
+f4f0ec Isabelline
+009900 Islamic Green
+ffb280 Italian Apricot
+003399 Italian Electric Blue
+fffff0 Ivory
+1fa774 Jade
+00a86b Jade Green
+a5ca77 Jade Lime
+350e47 Jagger
+ec5486 Japanese Atomic Carmine Pink
+3a6960 Japanese Blue-green
+902933 Japanese Carmine
+c327b2 Japanese Crimson
+264348 Japanese Indigo
+8f4155 Japanese Plum
+4f284b Japanese Purple
+5b3256 Japanese Violet
+d73b3e Jasper
+a50b5e Jazzberry Jam
+343434 Jet
+fada5e Jonquil, Naples Yellow, Royal Yellow, Stil De Grain Yellow
+bdda57 June Bud
+048243 Jungle Green
+b4cfd3 Jungle Mist
+009337 Kelley Green
+02ab2e Kelly Green
+7c1c05 Kenyan Copper
+bf6935 Kenyan Copper Light
+3ab09e Keppel
+c3103a Kermes
+5cb200 Kermit Green
+aeff6e Key Lime
+aaa662 Khaki
+c3b091 Khaki (html/css) (khaki)
+728639 Khaki Green
+00afca Khazakstani Azure
+9cef43 Kiwi
+8ee53f Kiwi Green
+e79fc4 Kobi
+e8000d Ku Crimson
+b3c110 La Rioja
+087830 La Salle Green
+d6cadd Languid Lavender
+26619c Lapis Lazuli
+c6e610 Las Palmas
+fefe22 Laser Lemon
+a9ba9d Laurel Green
+cf1020 Lava
+c79fef Lavender
+b57edc Lavender (floral)
+714693 Lavender Affair
+8b88f8 Lavender Blue
+ccccff Lavender Blue, Periwinkle
+bdbbd7 Lavender Blue-grey
+fff0f5 Lavender Blush
+aa8a9e Lavender Brown
+baa8c1 Lavender Frost
+c4c3d0 Lavender Grey
+9457eb Lavender Indigo
+8a9cc4 Lavender Lustre
+ee82ee Lavender Magenta, Violet (web)
+e6e6fa Lavender Mist
+dd85d7 Lavender Pink
+967bb6 Lavender Purple
+fba0e3 Lavender Rose
+4da409 Lawn Green
+71aa34 Leaf
+5ca904 Leaf Green
+51b73b Leafy Green
+ac7434 Leather
+fdff52 Lemon
+fffacd Lemon Chiffon
+cca01d Lemon Curry
+adf802 Lemon Green
+bffe28 Lemon Lime
+f6eabe Lemon Meringue
+fdff38 Lemon Yellow
+e3ff00 Lemon-lime
+8fb67b Lichen
+1a1110 Licorice
+bfdcd4 Light Acapulco
+aebea6 Light Amazon
+d5cfde Light Amethyst Smoke
+fdd5b1 Light Apricot
+8cffdb Light Aqua
+7bfdc7 Light Aquamarine
+d6e94b Light Bahia
+fffeb6 Light Beige
+e8f24e Light Bitter Lemon
+95d0fc Light Blue
+7efbb3 Light Blue Green
+b7c9e2 Light Blue Grey
+c77df3 Light Blue-violet
+76fda8 Light Bluish Green
+53fe5c Light Bright Green
+ad8150 Light Brown
+f5ffff Light Bubbles
+e4d430 Light Buddha Gold
+a8415b Light Burgundy
+ffd230 Light California Gold
+feef61 Light Candlelight
+f26476 Light Carmine Pink
+cfb8de Light Ce Soir
+b0665c Light Cherrywood
+c5c2ef Light Chetwode Blue
+d2691e Light Chocolate
+d3d86e Light Citron
+d4e646 Light Citrus
+f08080 Light Coral
+93ccea Light Cornflower Blue
+bb8caa Light Cosmic
+f56991 Light Crimson
+acfffc Light Cyan
+1cc3b4 Light Deep Sea
+c65ea0 Light Disco
+e8e08e Light Earls Green
+e7f3eb Light Edgewater
+894585 Light Eggplant
+ff9eda Light Electric Hollywood Cerise
+4f9153 Light Forest Green
+a899e6 Light French Lavender
+fbbbc4 Light Froly
+f0fffc Light Frosted Mint
+f984ef Light Fuchsia Pink
+fddc5c Light Gold
+fafad2 Light Goldenrod Yellow
+39d1c2 Light Gossamer
+9af764 Light Grass Green
+d3d3d3 Light Gray
+96f97b Light Green
+56fca2 Light Green Blue
+63f7b4 Light Greenish Blue
+d8dcd6 Light Grey
+9dbcd4 Light Grey Blue
+b7e1a1 Light Grey Green
+3560a6 Light Gulf Blue
+9fff7f Light Harlequin
+d2a560 Light Hawaiian Tan
+df84b5 Light Hibiscus
+6d5acf Light Indigo
+ffd9b2 Light Italian Apricot
+7058a3 Light Japanese Violet
+deebec Light Jungle Mist
+8ddcd3 Light Keppel
+f0e68c Light Khaki
+f5d3e6 Light Kobi
+dde454 Light La Rioja
+e6f554 Light Las Palmas
+efc0fe Light Lavendar
+dfc5fe Light Lavender
+b898cd Light Lavender Affair
+fff9fb Light Lavender Blush
+f8c3f Light Lavender Magenta
+f5f5fd Light Lavender Mist
+cafffb Light Light Blue
+c8ffb0 Light Light Green
+edc8ff Light Lilac
+cfbaec Light Lilac Bush
+bbe261 Light Lima
+aefd6c Light Lime
+b9ff66 Light Lime Green
+d2e543 Light Limerick
+d9d8ea Light Logan
+fa5ff7 Light Magenta
+a24857 Light Maroon
+c292a1 Light Mauve
+f7cdb9 Light Medium Apricot
+d39bcb Light Medium Orchid
+cdb7f0 Light Medium Purple
+caabd0 Light Medium Violet
+f4e5ed Light Melanie
+e7e4ef Light Melrose
+f3fdc6 Light Mindaro
+b6ffbb Light Mint
+a6fbb2 Light Mint Green
+c1bbec Light Moody Blue
+a6c875 Light Moss Green
+f7d560 Light Mustard
+155084 Light Navy
+2e5a88 Light Navy Blue
+4efd54 Light Neon Green
+d98aa8 Light Night Shadz
+b10097 Light Nightclub
+acbf69 Light Olive
+a4be5c Light Olive Green
+b8b654 Light Olivetone
+fdaa48 Light Orange
+e29cd2 Light Orchid
+f1d4f1 Light Pale Plum
+f0b7cd Light Pale Red-violet
+fff8ed Light Papaya Whip
+b2fba5 Light Pastel Green
+b19cd9 Light Pastel Purple
+c4fe82 Light Pea Green
+ffd8b1 Light Peach
+fff0e0 Light Peach Puff
+fff0ee Light Peach Schnapps
+ebe3fc Light Perfume
+c1c6fc Light Periwinkle
+b76969 Light Persian Plum
+eac592 Light Peru
+c18d25 Light Peru Tan
+ffd1df Light Pink
+9d5783 Light Plum
+ebe4f4 Light Prelude
+ffafc8 Light Puce
+bf77f6 Light Purple
+ff474c Light Red
+c51c56 Light Red Devil
+e79ec5 Light Red-violet
+ffc5cb Light Rose
+3a2efe Light Royal Blue
+d987b9 Light Royal Heath
+bcecac Light Sage
+fea993 Light Salmon
+ff9999 Light Salmon Pink
+98f6b0 Light Sea Green
+a0febf Light Seafoam
+a7ffb5 Light Seafoam Green
+b96cca Light Seance
+f9f8fe Light Selago
+dd4384 Light Shiraz
+dadada Light Silver Chalice
+e3e4e5 Light Silver Sand
+b8c2c2 Light Sirocco
+c6fcff Light Sky Blue
+778899 Light Slate Gray
+f7fa97 Light Starship
+b0c4de Light Steel Blue
+b89bdd Light Studio
+fbeeac Light Tan
+b38b6d Light Taupe
+90e4c1 Light Teal
+18a7b5 Light Teal Blue
+7ef4cc Light Turquoise
+b36ff6 Light Urple
+d46ff9 Light Veronica
+7b4bab Light Violent Violet
+d6b4fc Light Violet
+fff1eb Light Watusi
+fffe7a Light Yellow
+ccfd7f Light Yellow Green
+c2ff89 Light Yellowish Green
+25937e Light Zydeco
+7bc8f6 Lightblue
+75fd63 Lighter Green
+a55af4 Lighter Purple
+76ff7b Lightgreen
+3d7afd Lightish Blue
+61e160 Lightish Green
+a552e6 Lightish Purple
+fe2f4a Lightish Red
+cea2fd Lilac
+9874d3 Lilac Bush
+ae98aa Lilac Luster
+56365c Lilac Shadow
+c48efd Liliac
+76bd17 Lima
+bfff00 Lime
+ddecc0 Lime Cream
+89fe05 Lime Green
+d1e189 Lime Pulp
+bfd833 Lime Punch
+d0fe1d Lime Yellow
+9dc209 Limerick
+195905 Lincoln Green
+faf0e6 Linen
+d5174e Lipstick
+c0022f Lipstick Red
+6ca0dc Little Boy Blue
+534b4f Liver
+6700ff Lobelia
+aaa9cd Logan
+e62020 Lust
+efb435 Macaroni And Cheese
+ff00ff Magenta
+ff00af Magenta Rose
+aaf0d1 Magic Mint
+ff4466 Magic Potion
+f8f4ff Magnolia
+4a0100 Mahogany
+fbec5d Maize
+6050dc Majorelle Blue
+0bda51 Malachite
+a8516e Mallow Purple
+979aaa Manatee
+f3f00 Mandarin Red
+ffa62b Mango
+ff8243 Mango Tango
+fffa86 Manilla
+74c365 Mantis
+880085 Mardi Gras
+fcc006 Marigold
+042e60 Marine
+01386a Marine Blue
+650021 Maroon
+4ea4ba Maui Blue
+ae7181 Mauve
+e4d3d2 Mauve Chalk
+ad8884 Mauve Glow
+ebdbdb Mauve Morn
+b37e9a Mauve Orchid
+b89ca9 Mauve Shadows
+af868e Mauve Taupe
+915f6d Mauve Taupe, Raspberry Glace
+5d3b4c Mauve Wine
+ef98aa Mauvelous
+e8ccd7 Mauvette
+ab5c6d Mauvewood
+4c9141 May Green
+73c2fb Maya Blue
+a55790 Meadow Mauve
+e5b73b Meat Brown
+eb9373 Medium Apricot
+66ddaa Medium Aquamarine
+458ac6 Medium Azure
+e5de43 Medium Bitter Lemon
+2c6fbb Medium Blue
+d19fe8 Medium Bright Lavender
+6c541e Medium Bronze
+7f5112 Medium Brown
+63313a Medium Burgundy
+e2062c Medium Candy Apple Red
+c08181 Medium Carmine Pink
+af4035 Medium Carmine, Pale Carmine
+9f1f4c Medium Cerise
+f3e5ab Medium Champagne, Vanilla
+b0bc4a Medium Chartreuse
+9966cc Medium Deep Lavender
+035096 Medium Electric Blue
+aa786d Medium Girlsenberry
+fcd667 Medium Goldenrod
+39ad48 Medium Green
+7d7f7c Medium Grey
+44944a Medium Harlequin
+1c352d Medium Jungle Green
+c8a2c8 Medium Lavender Grey
+f5e25c Medium Lemon
+a1c42c Medium Lime Green
+d399e6 Medium Mauve
+ba55d3 Medium Orchid
+7a83bf Medium Periwinkle
+ffb6c1 Medium Pink
+8e616a Medium Puce
+9370db Medium Purple
+c077a6 Medium Raspberry
+bb3385 Medium Red-violet
+c32350 Medium Rich Magenta
+aa4069 Medium Ruby
+2d5da1 Medium Sapphire
+3cb371 Medium Sea Green
+76d7ea Medium Sky Blue
+7b68ee Medium Slate Blue
+c9dc87 Medium Spring Bud
+00fa9a Medium Spring Green
+88786a Medium Taupe Gray
+48d1cc Medium Turquoise
+990024 Medium Tyrian Purple
+d9603b Medium Vermilion, Vermilion (plochere)
+8f5e99 Medium Violet
+b0b583 Medium Winter Pear
+fce883 Medium Yellow
+e4c2d5 Melanie
+f8b878 Mellow Apricot
+99637b Mellow Mauve
+f8de7e Mellow Yellow
+ff7855 Melon
+c7c1ff Melrose
+730039 Merlot
+4f738e Metallic Blue
+d4af37 Metallic Gold
+9c7c3b Metallic Sunburst
+e4007c Mexican Rose
+276ab3 Mid Blue
+50a747 Mid Green
+03012d Midnight
+020035 Midnight Blue
+004953 Midnight Green
+280137 Midnight Purple
+ffc40c Mikado Yellow
+667c3e Military Green
+7f4e1e Milk Chocolate
+e3f988 Mindaro
+9ffeb0 Mint
+f5fffa Mint Cream
+8fff9f Mint Green
+0bf77d Minty Green
+ffe4e1 Misty Rose
+ffe4b5 Moccasin
+9d7651 Mocha
+8c82b6 Mogul
+7f76d3 Moody Blue
+d290b5 Moonlite Mauve
+73a9c2 Moonstone Blue
+ae0c00 Mordant Red 19
+769958 Moss
+658b38 Moss Green
+638b27 Mossy Green
+30ba8f Mountain Meadow
+997a8d Mountbatten Pink
+18453b Msu Green
+f1b82d Mu Gold
+735c12 Mud
+60460f Mud Brown
+606602 Mud Green
+886806 Muddy Brown
+657432 Muddy Green
+bfac05 Muddy Yellow
+c54b8c Mulberry
+6c7a0e Murky Green
+ba9e88 Mushroom
+ffdb58 Mustard
+ac7e04 Mustard Brown
+a8b504 Mustard Green
+d2bd0a Mustard Yellow
+3b719f Muted Blue
+5fa052 Muted Green
+d6ce7b Muted Lime
+d1768f Muted Pink
+805b87 Muted Purple
+21421e Myrtle
+b695c0 Mystic Lilac
+ad4379 Mystic Maroon
+d65282 Mystic Pearl
